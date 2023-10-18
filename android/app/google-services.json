@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "18385046807",
+    "project_id": "insta-tut-90905",
+    "storage_bucket": "insta-tut-90905.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:18385046807:android:d2b1401e9a58da98f73b52",
+        "android_client_info": {
+          "package_name": "com.example.instaclone_ranavat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "18385046807-hsvq4k7tt3n6b9uasdpgg5c3tfvrju9l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFwfnK225cwgd_nngsf1mcoeDa--zV4YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "18385046807-hsvq4k7tt3n6b9uasdpgg5c3tfvrju9l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
