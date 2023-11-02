@@ -1,2 +1,4 @@
 # insta-clone
-This repository contains a functional Instagram clone built using Firebase for backend services and state management UI components
+A instagram clone with essential features, utilizing Provider for state management and Firebase as the backend system.
+
+
